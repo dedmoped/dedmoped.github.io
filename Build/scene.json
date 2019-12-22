@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KURSOVOI",
+"dataUrl": "scene.data.unityweb",
+"asmCodeUrl": "scene.asm.code.unityweb",
+"asmMemoryUrl": "scene.asm.memory.unityweb",
+"asmFrameworkUrl": "scene.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
